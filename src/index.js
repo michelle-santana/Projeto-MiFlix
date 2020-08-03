@@ -2,12 +2,26 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import { BrowserRouter, Switch, Route, Router } from 'react-router-dom'
 
+function CadastroVideo() {
+  return (<div>
+    Página de cadastro
+</div>
+  )
+}
+
+const pagina404 = () => (<div>Página 404</div>)
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <BrowserRouter>
+    <Switch>
+    <Route path="/" component={App} exact/>
+      <Route path="/cadastro/video" component={CadastroVideo} />
+      <Route component={pagina404} />
+    </Switch>
+  </BrowserRouter>,
+
   document.getElementById('root')
 );
 
