@@ -11,7 +11,7 @@
       "videos": [
         {
           "titulo": "Naruto Shippuden",
-          "url": "https://www.youtube.com/watch?v=lGTp4VogNaQ"
+          "url": "https://www.youtube.com/watch?v=uCbpPfnfQ7U"
         },
         {
           "titulo": "Dragon Ball Z",
@@ -48,20 +48,58 @@
       "cor": "#e67e22",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Mullan",
+          "url": "https://www.youtube.com/watch?v=YrR3gzkIUUQ"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Cinco Passos de você",
+          "url": "https://www.youtube.com/watch?v=yEV8NMnQYjQ"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Menina Mimada",
+          "url": "https://www.youtube.com/watch?v=DfrJquWkexA"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Titanic",
+          "url": "https://www.youtube.com/watch?v=FR5Qr6RZTcE"
+        },
+        {
+          "titulo": "Clube de Compras Dallas",
+          "url": "https://www.youtube.com/watch?v=Y4Tzqa4nI4c"
+        },
+        {
+          "titulo": "Uma linda Mulher",
+          "url": "https://www.youtube.com/watch?v=1L9mwG4P8UQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Músicas",
+      "cor": "#000e22",
+      "videos": [
+        {
+          "titulo": "Pearl Jam Black",
+          "url": "https://www.youtube.com/watch?v=4q9UafsiQ6k"
+        },
+        {
+          "titulo": "It Will Rain Bruno Mars",
+          "url": "https://www.youtube.com/watch?v=DL10ocD75Ww"
+        },
+        {
+          "titulo": "Motivation Normani",
+          "url": "https://www.youtube.com/watch?v=FKXSh14svlQ"
+        },
+        {
+          "titulo": "I'll Be Over You TOTO",
+          "url": "https://www.youtube.com/watch?v=r7XhWUDj-Ts"
+        },
+        {
+          "titulo": "Rise Up Andra Day",
+          "url": "https://www.youtube.com/watch?v=4ojR0LuPxGE"
+        },
+        {
+          "titulo": "A Thousand Years Christina Perri",
+          "url": "https://www.youtube.com/watch?v=G9BSL3M45EY"
         }
       ]
     },
