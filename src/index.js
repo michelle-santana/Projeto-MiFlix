@@ -1,22 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import { BrowserRouter, Switch, Route, Router } from 'react-router-dom'
+import home from './pages/home';
 
-function CadastroVideo() {
-  return (<div>
-    Página de cadastro
-</div>
-  )
-}
+import { BrowserRouter, Switch, Route, Router } from 'react-router-dom';
+import CadastroVideo from './pages/cadastro/video';
 
+// desafio da descrição
 const pagina404 = () => (<div>Página 404</div>)
 
 ReactDOM.render(
   <BrowserRouter>
     <Switch>
-    <Route path="/" component={App} exact/>
+    <Route path="/" component={home} exact/>
       <Route path="/cadastro/video" component={CadastroVideo} />
       <Route component={pagina404} />
     </Switch>
